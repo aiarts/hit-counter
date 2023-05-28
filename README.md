@@ -21,7 +21,7 @@ The app is written in Python, using Flask framework
  ### Building/testing steps
 
 Download/pull this repository:
-`git clone https://github.com/rustudorcalin/hit-counter.git`
+`git clone https://github.com/aiarts/hit-counter.git`
 
 Go to the newly created directory
 `cd hit-counter`
